@@ -1,0 +1,3 @@
+/Users/emyrdavies/Desktop/CO572_2018_Coursework1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/emyrdavies/Desktop/CO572_2018_Coursework1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emyrdavies/Desktop/CO572_2018_Coursework1/cmake-build-debug/CMakeFiles/CO572_2018_Coursework1.dir
